@@ -1,0 +1,3 @@
+On this file, i included my writeup Vulnhub on medium 
+Writeup
+- Kioptrix Level 1: https://medium.com/@jonathankurniawan2000/writeup-vulnhub-kioptrix-1-bahasa-indonesia-c616b8de729c
